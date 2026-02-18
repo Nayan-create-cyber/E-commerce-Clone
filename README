@@ -1,0 +1,33 @@
+# E-commerce UI Clone (HTML & CSS)
+
+This is my first web development project where I created a static clone of the Amazon homepage using only HTML and CSS.
+
+The main goal of this project was to understand page structure, layout design, and basic styling techniques.
+
+## Features
+- Static Amazon homepage layout
+- Header, navigation bar, product sections, and footer
+- Built using HTML5 and CSS3
+- Desktop-focused design
+
+## Technologies Used
+- HTML5
+- CSS3
+- GitHub Pages
+
+## Live Demo
+https://username.github.io/amazon-clone/
+
+## Learning Outcome
+- Improved understanding of HTML structure
+- Learned CSS layout techniques using Flexbox
+- Gained experience in hosting static websites using GitHub Pages
+
+## Future Improvements
+- Make the website responsive
+- Add mobile and tablet support
+- Improve UI consistency
+
+## Disclaimer
+This project is created for learning and educational purposes only.  
+All images and design inspiration belong to Amazon.
