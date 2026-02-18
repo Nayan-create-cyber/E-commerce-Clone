@@ -24,7 +24,7 @@
 .logo {
     height: 48px;
     width: 114px;
-    background-image: url("amazon-logo-cover.png");
+    background-image: url("site-logo.png");
     background-size: cover;
 }
 
@@ -198,10 +198,10 @@ span {
     color: #2162A1;
 }
 
-.click:hover {
+/*.click:hover {
     text-decoration: underline;
     color: #222f3d;
-}
+}*/
 
 /*shop section*/
 
@@ -718,7 +718,7 @@ ul a {
 .logo1 {
     height: 48px;
     width: 114px;
-    background-image: url("Amazon-Symbol.jpg");
+    background-image: url("site-logo-footer.jpg");
     background-size: cover;
 }
 
@@ -800,3 +800,4 @@ ul a {
     text-decoration: underline;
 
 }
+
